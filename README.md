@@ -1,2 +1,2 @@
 # dsp-lab
-this repo  is for my lab purpose 
+this repo  is for my  data science with python lab purpose 
